@@ -17,7 +17,7 @@ export function SiteHeader() {
       <div className="container-page flex h-16 items-center justify-between gap-3">
         <Link href="/" className="group flex shrink-0 items-baseline gap-2">
           <span className="font-mono text-[13px] font-semibold tracking-tight text-ink sm:text-sm">
-            MiBarco.Online
+            Guardería Sarthou
           </span>
           <span className="eyebrow hidden sm:inline">Evaluación UX</span>
         </Link>

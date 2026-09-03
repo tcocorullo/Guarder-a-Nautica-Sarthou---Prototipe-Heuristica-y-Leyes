@@ -1,7 +1,7 @@
-# Tableros de evaluación UX — MiBarco.Online
+# Tableros de evaluación UX — Guardería Náutica Sarthou
 
-Dos tableros de evaluación de usabilidad, navegables, sobre **MiBarco.Online**, la
-app móvil de socios de la **Guardería Náutica Sarthou** (versión relevada
+Dos tableros de evaluación de usabilidad, navegables, sobre la **app móvil de socios**
+de la **Guardería Náutica Sarthou** (versión relevada
 V 5.2711.1038). Trabajo práctico de Diseño UX/UI (UdeSA).
 
 - **Tablero 1 — Leyes UX:** 14 leyes UX aplicadas como checklist sobre las
@@ -72,5 +72,5 @@ public/screens/          → 20 capturas relevadas de la app
 
 ## Nota sobre las capturas
 
-Las capturas son propiedad de MiBarco.Online / Guardería Náutica Sarthou y se
+Las capturas son propiedad de Guardería Náutica Sarthou y se
 reproducen únicamente con fines académicos, para el análisis de usabilidad.

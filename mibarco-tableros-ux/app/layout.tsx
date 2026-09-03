@@ -4,9 +4,9 @@ import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
-  title: "Tableros de evaluación UX — MiBarco.Online",
+  title: "Tableros de evaluación UX — Guardería Náutica Sarthou",
   description:
-    "Evaluación de usabilidad de MiBarco.Online (Guardería Náutica Sarthou): tablero de leyes UX y evaluación heurística de Nielsen.",
+    "Evaluación de usabilidad de Guardería Náutica Sarthou: tablero de leyes UX y evaluación heurística de Nielsen.",
 };
 
 export default function RootLayout({

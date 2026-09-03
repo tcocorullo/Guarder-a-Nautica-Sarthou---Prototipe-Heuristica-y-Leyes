@@ -60,10 +60,10 @@ export default function Home() {
       <section className="max-w-3xl">
         <span className="eyebrow">Evaluación de usabilidad · Diseño UX/UI</span>
         <h1 className="mt-3 text-4xl font-semibold leading-[1.05] tracking-tight text-ink sm:text-6xl">
-          MiBarco.Online
+          Guardería Náutica Sarthou
         </h1>
         <p className="mt-4 text-lg text-muted">
-          Guardería Náutica Sarthou · App móvil de socios ·{" "}
+          App móvil de socios ·{" "}
           <span className="font-mono text-base text-faint">V 5.2711.1038</span>
         </p>
         <p className="mt-6 text-[1.05rem] leading-relaxed text-ink">
@@ -104,9 +104,8 @@ export default function Home() {
             <p>
               La Guardería Náutica Sarthou es un complejo náutico en San
               Fernando, provincia de Buenos Aires. Guarda embarcaciones en silos
-              y las baja al agua cuando el propietario las solicita. MiBarco.Online
-              es la app móvil que usan los socios: no es desarrollo propio de
-              Sarthou, sino una plataforma de terceros white-label para
+              y las baja al agua cuando el propietario las solicita. La app móvil de
+              socios que evaluamos acá no es desarrollo propio de Sarthou, sino una plataforma de terceros white-label para
               guarderías náuticas, personalizada con la marca.
             </p>
             <p>

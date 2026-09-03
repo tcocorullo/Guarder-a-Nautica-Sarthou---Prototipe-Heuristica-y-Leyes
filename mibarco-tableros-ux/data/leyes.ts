@@ -1,4 +1,4 @@
-// TABLERO 1 — Leyes UX aplicadas a MiBarco.Online.
+// TABLERO 1 — Leyes UX aplicadas a Guardería Náutica Sarthou.
 // Contenido relevado y redactado en el brief de evaluación (sección 5).
 // Todo hallazgo es verificable en alguna de las capturas de /public/screens.
 

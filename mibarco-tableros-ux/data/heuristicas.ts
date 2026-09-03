@@ -1,4 +1,4 @@
-// TABLERO 2 — Evaluación heurística de Nielsen sobre MiBarco.Online.
+// TABLERO 2 — Evaluación heurística de Nielsen sobre Guardería Náutica Sarthou.
 // Contenido relevado y redactado en el brief de evaluación (sección 6).
 // Las 10 heurísticas, cada una con severidad 0-4 (escala de Nielsen).
 

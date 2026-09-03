@@ -1,11 +1,11 @@
 # prompts_leyes_heuristicas
 
 Registro de la iteración con IA generativa para construir los dos tableros de
-evaluación UX de **MiBarco.Online** (Guardería Náutica Sarthou).
+evaluación UX de **Guardería Náutica Sarthou**.
 
 - **Herramienta de IA principal:** Claude Code (modelo Claude Opus), corriendo en
   la terminal con acceso a archivos, navegador y ejecución de comandos.
-- **Producto evaluado:** MiBarco.Online, app móvil iOS de socios (V 5.2711.1038).
+- **Producto evaluado:** Guardería Náutica Sarthou, app móvil iOS de socios (V 5.2711.1038).
 - **Formato del registro:** por cada prompt relevante — herramienta usada,
   objetivo, prompt completo, y resultado + ajustes (incluyendo lo que salió mal).
 
@@ -97,7 +97,7 @@ Aca esta el punto 2
 
 - **Herramienta:** Claude Code
 - **Objetivo:** el prompt más grande — entregar el relevamiento completo de
-  MiBarco.Online (arquitectura, 20 capturas descriptas, contenido redactado de las
+  Guardería Náutica Sarthou (arquitectura, 20 capturas descriptas, contenido redactado de las
   14 leyes y las 10 heurísticas, modelo de datos y specs técnicas) para que la IA
   construyera la mini-web.
 
@@ -106,7 +106,7 @@ operativos; el texto íntegro se conserva en el brief del equipo)
 
 ```
 2. # Brief para Claude Code — Tableros de evaluación UX
-Producto analizado: MiBarco.Online (Guardería Náutica Sarthou)
+Producto analizado: Guardería Náutica Sarthou
 
 0. Qué construir: mini-web estática en Vercel con dos tableros navegables
    (Tablero 1: 14 leyes UX; Tablero 2: 10 heurísticas de Nielsen), sin backend.

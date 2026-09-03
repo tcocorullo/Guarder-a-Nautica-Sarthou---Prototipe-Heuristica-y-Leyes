@@ -1,4 +1,4 @@
-// Registro de las capturas relevadas de MiBarco.Online (V 5.2711.1038).
+// Registro de las capturas relevadas de Guardería Náutica Sarthou (V 5.2711.1038).
 // La clave es el nombre de archivo en /public/screens; el valor es el nombre
 // legible de la pantalla, que se usa como pie de captura y como texto alt.
 
